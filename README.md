@@ -1,2 +1,2 @@
 # Real-Time-Object-Detection
-first littleproject
+first little project
